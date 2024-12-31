@@ -1,0 +1,30 @@
+{
+    "ta": [
+        {
+            "id": "dashboard",
+            "label": "டாஷ்போர்டு"
+        },
+        {
+            "id": "product",
+            "label": "பொருட்கள்"
+        },
+        {
+            "id": "order",
+            "label": "கணக்கு எடுப்பது"
+        }
+    ],
+    "en": [
+        {
+            "id": "dashboard",
+            "label": "Dashboard"
+        },
+        {
+            "id": "product",
+            "label": "Product"
+        },
+        {
+            "id": "order",
+            "label": "Order"
+        }
+    ]
+}
